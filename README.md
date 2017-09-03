@@ -3,3 +3,4 @@
 ## [Relatorio Hands-on 00](https://github.com/vyktors23/Victor_DCO2004/blob/master/H00/h00_relatorio.ipynb)
 ## [Relatorio Hands-on 01](https://github.com/vyktors23/Victor_DCO2004/blob/master/H01/h01_relatorio.ipynb)
 ## [Relatorio Hands-on 02](https://github.com/vyktors23/Victor_DCO2004/blob/master/H02/h02_relatorio.ipynb)
+## [Relatorio Hands-on 03](https://github.com/vyktors23/Victor_DCO2004/blob/master/H03/Entrega_h03.ipynb)
