@@ -6,3 +6,4 @@
 ## [Relatório Hands-on 03](https://github.com/vyktors23/Victor_DCO2004/blob/master/H03/Entrega_h03.ipynb)
 # UNIDADE II
 ## [Relatório Hands-on 05](https://github.com/vyktors23/Victor_DCO2004/blob/master/H05/Entrega_h05.ipynb)
+## [Relatório Hands-on 06](https://github.com/vyktors23/Victor_DCO2004/blob/master/H06/Entrega_h06.ipynb)
