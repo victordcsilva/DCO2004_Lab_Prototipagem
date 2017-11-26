@@ -10,4 +10,4 @@
 ## [Relatório Hands-on 07](https://github.com/vyktors23/Victor_DCO2004/blob/master/H07/Entrega_h07.ipynb)
 ## [Relatório Hands-on 08](https://github.com/vyktors23/Victor_DCO2004/blob/master/H08/Entrega_h08.ipynb)
 ## [Relatório Hands-on 09](https://github.com/vyktors23/Victor_DCO2004/blob/master/H09/Entrega_h09.ipynb)
-## [Relatório Hands-on 09](https://github.com/vyktors23/Victor_DCO2004/blob/master/h10/Entrega_h10.ipynb)
+## [Relatório Hands-on 10](https://github.com/vyktors23/Victor_DCO2004/blob/master/h10/Entrega_h10.ipynb)
